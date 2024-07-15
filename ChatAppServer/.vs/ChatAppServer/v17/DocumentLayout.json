@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\netangularvesignalrilechatapp\\chatappserver\\chatappserver.webapi\\chatappserver.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{69AC0817-E1CA-4FD6-A5AC-2C4E993C2989}|ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj|solutionrelative:chatappserver.webapi\\chatappserver.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "ChatAppServer.WebApi\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:04:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Program.cs",
+              "RelativeToolTip": "ChatAppServer.WebApi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:13:06.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatAppServer.WebApi\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:12:27.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Dtos\\SendMessageDto.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\Dtos\\SendMessageDto.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Dtos\\SendMessageDto.cs",
+              "RelativeToolTip": "ChatAppServer.WebApi\\Dtos\\SendMessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:08:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "ChatAppServer.WebApi\\Controllers\\ChatsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:45:57.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatAppServer.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:40:43.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatAppServer.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj",
+              "RelativeDocumentMoniker": "ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj",
+              "RelativeToolTip": "ChatAppServer.WebApi\\ChatAppServer.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T06:40:34.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

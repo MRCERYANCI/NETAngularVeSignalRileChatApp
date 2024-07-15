@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\burak\\OneDrive\\Masaüstü\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\wwwroot\\avatar\\0d64c56e-0206-4b52-9e39-c2a415db0f7f.jpg",
+      "PackagePath": "staticwebassets\\avatar\\0d64c56e-0206-4b52-9e39-c2a415db0f7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\burak\\OneDrive\\Masaüstü\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\wwwroot\\avatar\\6456cf32-e941-46dc-90f9-28db759e6f20.jpg",
+      "PackagePath": "staticwebassets\\avatar\\6456cf32-e941-46dc-90f9-28db759e6f20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\burak\\OneDrive\\Masaüstü\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\wwwroot\\avatar\\a963e13a-3af6-4a46-ab7c-ad314809aad0.jpg",
+      "PackagePath": "staticwebassets\\avatar\\a963e13a-3af6-4a46-ab7c-ad314809aad0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\burak\\OneDrive\\Masaüstü\\NETAngularVeSignalRileChatApp\\ChatAppServer\\ChatAppServer.WebApi\\wwwroot\\avatar\\ae603bdd-e090-475d-a317-673c3621bf10.jpg",
+      "PackagePath": "staticwebassets\\avatar\\ae603bdd-e090-475d-a317-673c3621bf10.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatAppServer.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatAppServer.WebApi.props",
+      "PackagePath": "build\\ChatAppServer.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatAppServer.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\ChatAppServer.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatAppServer.WebApi.props",
+      "PackagePath": "buildTransitive\\ChatAppServer.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
